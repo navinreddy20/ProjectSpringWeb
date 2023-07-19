@@ -15,3 +15,4 @@ INSERT INTO product(id,name,type,place,warranty) VALUES (13,'Logi Mouse','Mouse'
 INSERT INTO product(id,name,type,place,warranty) VALUES (14,'Apple Mouse','Mouse','White Table',2022);
 INSERT INTO product(id,name,type,place,warranty) VALUES (15,'Lenovo Mouse','Mouse','Black Drawer',2022);
 INSERT INTO product(id,name,type,place,warranty) VALUES (16,'BlackBeast','Computer','White Table',2020);
+INSERT INTO product(id,name,type,place,warranty) VALUES (17,'Airpods','Earphone','White Table',2022);
